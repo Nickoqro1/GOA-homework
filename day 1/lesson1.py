@@ -2,7 +2,7 @@ from turtle import *
 
 #squre
 
-speed(10)
+speed(11)
 width(7)
 color("red")
 begin_fill()
