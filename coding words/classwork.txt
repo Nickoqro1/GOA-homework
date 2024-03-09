@@ -1,0 +1,7 @@
+integer-მთელი რიცხვი
+float-წილადი რიცხვი
+concatenation-სტრინგების შეერთება
+quotation marks-ბრჭყალები
+string-ბრჭყალებში მოთავსებული ტექსტი
+parenthesis-() ფრჩხილები
+declear-ცვლადის დეკლარირება(შექმნა)

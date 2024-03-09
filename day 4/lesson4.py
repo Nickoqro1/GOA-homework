@@ -6,4 +6,5 @@ age = input("what is your age: ")
 
 lastname = input("what is your lastname: ")
 
-print("your name: " + name + " :your age: " + age + " :your lastname: " + lastname)
+print("your name: " + name + " " + lastname)
+print("your age: " + age)
