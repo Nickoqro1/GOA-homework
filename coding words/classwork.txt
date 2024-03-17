@@ -5,3 +5,5 @@ quotation marks-ბრჭყალები
 string-ბრჭყალებში მოთავსებული ტექსტი
 parenthesis-() ფრჩხილები
 declear-ცვლადის დეკლარირება(შექმნა)
+explicit - მექანიკური(int,str,float)
+implicit - აუტომატური
