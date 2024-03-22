@@ -1,15 +1,15 @@
 #1
-print(15<20 or 30<10)
-print(25<40 or 30<90)
-print(40>50 or 23<52)
-print(68>40 or 45<90)
+print(15 < 20 or 30 < 10)
+print(25 < 40 or 30 < 90)
+print(40 > 50 or 23 < 52)
+print(68 > 40 or 45  < 90)
 
 #2
-print(23<45 and 59>93)
-print(43<74 and 26>49)
-print(32>43 and 44<23)
-print(43<67 and 45>55)
-print(50<40 and 90<68)
+print(23 < 45 and 59 > 93)
+print(43 < 74 and 26 > 49)
+print(32 > 43 and 44 < 23)
+print(43 < 67 and 45 > 55)
+print(50 < 40 and 90 < 68)
 
 #3
 variable1 = True and False #false
