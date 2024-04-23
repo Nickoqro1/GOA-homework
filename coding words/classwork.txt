@@ -9,3 +9,5 @@ explicit - მექანიკური(int,str,float)
 implicit - აუტომატური
 nesting - ჩაშენება
 indentation - ინდენტაცია (კიდედან დაშორება)
+bold - გამუქებული
+italic - დახრილი
